@@ -1,0 +1,4 @@
+/work/build/CMakeFiles/qt_shared_deque_1.dir
+/work/build/CMakeFiles/qt_shared_deque_2.dir
+/work/build/CMakeFiles/edit_cache.dir
+/work/build/CMakeFiles/rebuild_cache.dir
